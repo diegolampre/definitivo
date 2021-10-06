@@ -3,4 +3,4 @@ date:
 draft: false
 layout: peliculas
 
-# Listado de peliculas 
+# Listado de canales de televisión
