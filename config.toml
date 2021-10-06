@@ -3,8 +3,13 @@ languageCode = "en-us"
 title = "DWES Vespertino"
 theme= "learn"
 
+
+[params]
+themeVariant= "blue"
+
 [outputs]
 home =['HTML','JSON','RSS']
+
 
 
 # English is the default language
