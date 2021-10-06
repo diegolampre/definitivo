@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/apuntes/prueba1/</loc>
+    <lastmod>2021-09-28T17:53:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/apuntes/prueba/</loc>
+    <lastmod>2021-09-28T17:53:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diapositivas/tema2/</loc>
+    <lastmod>2021-09-28T17:46:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diapositivas/tema1/</loc>
+    <lastmod>2021-09-28T17:37:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-09-28T17:04:38+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/apuntes/</loc>
+    <lastmod>2021-09-28T17:53:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/diapositivas/</loc>
+    <lastmod>2021-09-28T17:46:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://example.org/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/"
+                />
+  </url>
+  
+</urlset>
