@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/es/categories/</loc>
+    <loc>https://diegolampre.github.io/definitivo/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://diegolampre.github.io/definitivo/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/"
+                href="https://diegolampre.github.io/definitivo/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/</loc>
+    <loc>https://diegolampre.github.io/definitivo/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://diegolampre.github.io/definitivo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/"
+                href="https://diegolampre.github.io/definitivo/es/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/es/tags/</loc>
+    <loc>https://diegolampre.github.io/definitivo/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://diegolampre.github.io/definitivo/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/"
+                href="https://diegolampre.github.io/definitivo/es/tags/"
                 />
   </url>
   

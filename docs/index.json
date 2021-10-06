@@ -1,62 +1,76 @@
 [
 {
-	"uri": "http://example.org/apuntes/prueba1/",
+	"uri": "https://diegolampre.github.io/definitivo/apuntes/prueba1/",
 	"title": "Prueba1",
 	"tags": [],
 	"description": "",
 	"content": "Apuntes 2 Estos son apuntes 2, si, lo son Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.\n"
 },
 {
-	"uri": "http://example.org/apuntes/prueba/",
+	"uri": "https://diegolampre.github.io/definitivo/apuntes/prueba/",
 	"title": "Prueba",
 	"tags": [],
 	"description": "",
 	"content": "Apuntes 1 Estos son apuntes, si, lo son Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.\n"
 },
 {
-	"uri": "http://example.org/diapositivas/tema2/",
+	"uri": "https://diegolampre.github.io/definitivo/diapositivas/tema2/",
 	"title": "Tema2",
 	"tags": [],
 	"description": "",
 	"content": "Tema 2 Esto es el tema 2 Lorem Ipsum. hola mundo"
 },
 {
-	"uri": "http://example.org/diapositivas/tema1/",
+	"uri": "https://diegolampre.github.io/definitivo/diapositivas/tema1/",
 	"title": "Tema1",
 	"tags": [],
 	"description": "",
 	"content": "Tema1 Esto es el tema 1 Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.Lorem Ipsum.\n"
 },
 {
-	"uri": "http://example.org/",
+	"uri": "https://diegolampre.github.io/definitivo/",
 	"title": "Desarrollo de aplicaciones web",
 	"tags": [],
 	"description": "",
 	"content": "Contenidos Ver el contenido del curso Este capitulo contendra texto escrito con formato markdown.\n"
 },
 {
-	"uri": "http://example.org/apuntes/",
+	"uri": "https://diegolampre.github.io/definitivo/apuntes/",
 	"title": "Apuntes",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/diapositivas/",
+	"uri": "https://diegolampre.github.io/definitivo/diapositivas/",
 	"title": "Diapositivas",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/categories/",
+	"uri": "https://diegolampre.github.io/definitivo/contenido/peliculas/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "title: \u0026ldquo;Peliculas\u0026rdquo; date: draft: false layout: peliculas\nListado de canales de televisión "
+},
+{
+	"uri": "https://diegolampre.github.io/definitivo/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/tags/",
+	"uri": "https://diegolampre.github.io/definitivo/contenido/",
+	"title": "Contenidos",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://diegolampre.github.io/definitivo/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

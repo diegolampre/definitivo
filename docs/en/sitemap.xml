@@ -3,75 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/apuntes/prueba1/</loc>
+    <loc>https://diegolampre.github.io/definitivo/apuntes/prueba1/</loc>
     <lastmod>2021-09-28T17:53:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/apuntes/prueba/</loc>
+    <loc>https://diegolampre.github.io/definitivo/apuntes/prueba/</loc>
     <lastmod>2021-09-28T17:53:21+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/diapositivas/tema2/</loc>
+    <loc>https://diegolampre.github.io/definitivo/diapositivas/tema2/</loc>
     <lastmod>2021-09-28T17:46:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/diapositivas/tema1/</loc>
+    <loc>https://diegolampre.github.io/definitivo/diapositivas/tema1/</loc>
     <lastmod>2021-09-28T17:37:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://diegolampre.github.io/definitivo/</loc>
     <lastmod>2021-09-28T17:04:38+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/"
+                href="https://diegolampre.github.io/definitivo/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://diegolampre.github.io/definitivo/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/apuntes/</loc>
+    <loc>https://diegolampre.github.io/definitivo/apuntes/</loc>
     <lastmod>2021-09-28T17:53:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/diapositivas/</loc>
+    <loc>https://diegolampre.github.io/definitivo/diapositivas/</loc>
     <lastmod>2021-09-28T17:46:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://diegolampre.github.io/definitivo/contenido/peliculas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://diegolampre.github.io/definitivo/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/"
+                href="https://diegolampre.github.io/definitivo/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://diegolampre.github.io/definitivo/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://diegolampre.github.io/definitivo/contenido/</loc>
+  </url>
+  
+  <url>
+    <loc>https://diegolampre.github.io/definitivo/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/"
+                href="https://diegolampre.github.io/definitivo/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://diegolampre.github.io/definitivo/tags/"
                 />
   </url>
   
